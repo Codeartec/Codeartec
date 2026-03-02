@@ -1,6 +1,6 @@
 ### Hi, I'm Maximiliano Romero! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src='TU_IMAGEN_PERSONALIZADA.svg' alt='Personal Brand' align='right' width='250'/>
+<img src='https://github.com/Codeartec/Codeartec/blob/main/logo.svg' alt='Personal Brand' align='right' width='150'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximiliano-romero-dev/)](https://www.linkedin.com/in/maximiliano-romero-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-codeartec@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:merparg@gmail.com)](mailto:codeartec@gmail.com) 
